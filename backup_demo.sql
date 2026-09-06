@@ -1,8 +1,8 @@
--- MySQL dump 10.13  Distrib 9.7.1, for Linux (x86_64)
+-- MySQL dump 10.13  Distrib 26.7.0, for Linux (x86_64)
 --
 -- Host: localhost    Database: backup_demo
 -- ------------------------------------------------------
--- Server version	9.7.1
+-- Server version	26.7.0
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -50,4 +50,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2026-09-03 21:55:01
+-- Dump completed on 2026-09-06 12:41:16
